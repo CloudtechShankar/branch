@@ -4,7 +4,7 @@
 print("Hello, World!")
 
 # Define two numbers
-a = 10
+a = 56
 b = 5
 
 # Perform basic operations
